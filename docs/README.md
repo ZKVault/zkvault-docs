@@ -1,3 +1,3 @@
 # ZKVault-Core
 
-This project holds documents zkvault-core.
+This project holds documents of zkvault-core.
